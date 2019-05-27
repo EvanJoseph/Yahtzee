@@ -1,0 +1,10 @@
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Form1.resources
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+c:\users\neo\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Neo\Documents\Visual Studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
